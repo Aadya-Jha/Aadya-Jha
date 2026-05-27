@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Aadya 
+# Hi there, I'm Aadya 
 #### Welcome to my GitHub profile! I'm a passionate developer with a love for technology and coding. 
 
-# 💫 About Me:
+# About Me:
 Hi, I’m Aadya — a computer science student with a growing interest in full-stack web development.  
 
 I’ve been working with React on the frontend and recently started building out backend projects using Node.js, Express, and MongoDB. I'm focused on learning by building — whether it’s a new feature, a mini project, or figuring out how everything connects behind the scenes.

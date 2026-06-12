@@ -1,15 +1,15 @@
 ## Hey, I'm Aadya
 
-Backend and full-stack developer with an interest in building tools that solve real developer problems. I enjoy designing systems where APIs, data stores, and AI fit together into something end-to-end and actually deployable.
+Backend and full-stack developer interested in building systems that solve real-world problems. I enjoy designing applications where APIs, data, cloud infrastructure, and machine learning come together into something practical, scalable, and deployable.
 
-Currently exploring AI agents and how LLMs can be used as a functional layer inside backend systems for things like automation, analysis, and reducing manual work.
+Currently exploring ML systems, AI agents, and model observability, with a focus on using AI to automate workflows, improve decision-making, and reduce manual effort.
 
 ---
 
 ### I code with
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,express,fastapi,mongodb,postgres,aws" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,nodejs,react,postgres,mongodb,aws,go,git" />
 </p>
 
 ---
